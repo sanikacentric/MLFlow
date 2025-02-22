@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/214071219497454976/c35e46c1012b414489fa36bf06f649d3/artifacts
+end_time: 1739796684282
+entry_point_name: ''
+experiment_id: '214071219497454976'
+lifecycle_stage: active
+run_id: c35e46c1012b414489fa36bf06f649d3
+run_name: thundering-toad-531
+run_uuid: c35e46c1012b414489fa36bf06f649d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739796660660
+status: 3
+tags: []
+user_id: stungare

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/stungare/MLFLOW/mlruns/301434811519234099/f25692c701f54a998db203b5645bd712/artifacts
+end_time: 1739794189680
+entry_point_name: ''
+experiment_id: '301434811519234099'
+lifecycle_stage: active
+run_id: f25692c701f54a998db203b5645bd712
+run_name: industrious-finch-20
+run_uuid: f25692c701f54a998db203b5645bd712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739794189603
+status: 3
+tags: []
+user_id: stungare
